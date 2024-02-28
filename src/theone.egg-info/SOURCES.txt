@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/theone.egg-info/PKG-INFO
+src/theone.egg-info/SOURCES.txt
+src/theone.egg-info/dependency_links.txt
+src/theone.egg-info/top_level.txt
+tests/test_modules.py
